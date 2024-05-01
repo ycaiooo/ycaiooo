@@ -1,4 +1,4 @@
-### Ola! eu sou o Caio Pereira 🦇
+### Ola! Me chamo Caio Pereira 🦇
 ### Etudante de analise e desenvolvimento de sistemas 👨‍💻
 
 
