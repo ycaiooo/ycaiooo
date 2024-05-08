@@ -1,5 +1,5 @@
 ### Ola! Me chamo Caio Pereira 🦇
-### Etudante de analise e desenvolvimento de sistemas 👨‍💻
+### Estudante de analise e desenvolvimento de sistemas 👨‍💻
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](***********************)
